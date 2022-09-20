@@ -19,7 +19,7 @@ Education
   * Co-advisor: Dr. Reinaldo Tonkoski (University of Maine)
   * Relevant Coursework: Advanced Power Electronics and Control, Computational Data Analysis of Power System, Photovoltaic Systems Engineering, High-Performance           Computing,  Statistical Programming
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -29,7 +29,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Key Skills
 ======
@@ -44,7 +44,7 @@ For more info
 * Checkout other tabs from the top of the page
 * Any suggestion or feedback, feel free to contact me. This site is still in progress so not all information is in place.
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -60,7 +60,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
