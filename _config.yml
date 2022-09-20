@@ -11,7 +11,7 @@ locale                   : "en-US"
 -title                    : "Bidur Poudel"
 title_separator          : "-"
 name                     : &name "Bidur Poudel"
-description              : &description "Masters student in electric power engineering at South Dakota State University (SDSU) striving to work in a team environment at a U.S. national laboratory/industry in power system modeling and work related to state and parameter estimation of large power systems."
+description              : &description "Masters student in electric power engineering at South Dakota State University (SDSU)"
 url                      : https://Bidur_4339.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Bidur Poudel"
+  avatar           : "Bidur.png"
+  bio              : "Masters student in electric power engineering at South Dakota State University (SDSU)"
+  location         : "Brookings South Dakota"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OnNpRPYAAAAJ.com"
+  email            : "Bidur.Poudel@jacks.sdstate.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Bidur-Poudel"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Bidur4525"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bidur-poudel-820623192/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
